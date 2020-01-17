@@ -1,0 +1,10 @@
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronEstado\EstadosMain\bin\Debug\EstadosMain.exe.config
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronEstado\EstadosMain\bin\Debug\EstadosMain.exe
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronEstado\EstadosMain\bin\Debug\EstadosMain.pdb
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronEstado\EstadosMain\bin\Debug\PatronEstado.dll
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronEstado\EstadosMain\bin\Debug\PatronEstado.pdb
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronEstado\EstadosMain\obj\Debug\EstadosMain.csprojAssemblyReference.cache
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronEstado\EstadosMain\obj\Debug\EstadosMain.csproj.CoreCompileInputs.cache
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronEstado\EstadosMain\obj\Debug\EstadosMain.csproj.CopyComplete
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronEstado\EstadosMain\obj\Debug\EstadosMain.exe
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronEstado\EstadosMain\obj\Debug\EstadosMain.pdb

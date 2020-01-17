@@ -1,0 +1,5 @@
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronEstado\PatronEstado\bin\Debug\PatronEstado.dll
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronEstado\PatronEstado\bin\Debug\PatronEstado.pdb
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronEstado\PatronEstado\obj\Debug\PatronEstado.csproj.CoreCompileInputs.cache
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronEstado\PatronEstado\obj\Debug\PatronEstado.dll
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronEstado\PatronEstado\obj\Debug\PatronEstado.pdb

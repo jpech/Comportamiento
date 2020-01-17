@@ -1,0 +1,7 @@
+C:\Users\julian.pech\source\repos\PatronObservador\PatronObservador\obj\Debug\PatronObservador.csprojAssemblyReference.cache
+C:\Users\julian.pech\source\repos\PatronObservador\PatronObservador\obj\Debug\PatronObservador.csproj.CoreCompileInputs.cache
+C:\Users\julian.pech\source\repos\PatronObservador\PatronObservador\bin\Debug\PatronObservador.exe.config
+C:\Users\julian.pech\source\repos\PatronObservador\PatronObservador\bin\Debug\PatronObservador.exe
+C:\Users\julian.pech\source\repos\PatronObservador\PatronObservador\bin\Debug\PatronObservador.pdb
+C:\Users\julian.pech\source\repos\PatronObservador\PatronObservador\obj\Debug\PatronObservador.exe
+C:\Users\julian.pech\source\repos\PatronObservador\PatronObservador\obj\Debug\PatronObservador.pdb
