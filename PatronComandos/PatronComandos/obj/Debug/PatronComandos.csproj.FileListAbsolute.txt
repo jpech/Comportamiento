@@ -1,0 +1,7 @@
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronComandos\PatronComandos\bin\Debug\PatronComandos.exe.config
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronComandos\PatronComandos\bin\Debug\PatronComandos.exe
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronComandos\PatronComandos\bin\Debug\PatronComandos.pdb
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronComandos\PatronComandos\obj\Debug\PatronComandos.csprojAssemblyReference.cache
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronComandos\PatronComandos\obj\Debug\PatronComandos.csproj.CoreCompileInputs.cache
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronComandos\PatronComandos\obj\Debug\PatronComandos.exe
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronComandos\PatronComandos\obj\Debug\PatronComandos.pdb
